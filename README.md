@@ -1,4 +1,3 @@
-# Python
-#This is my personal repository
+#Python
+This is my personal repository. It contains my work in Python.
 
-# Python ls
